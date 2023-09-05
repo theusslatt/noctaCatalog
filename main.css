@@ -76,6 +76,10 @@ footer {
     color:#d75413;
 }
 
+footer img {
+    width: 32px;
+}
+
 @media screen and (min-width: 768px) and (max-width: 1023px){
     .container {
         max-width: 90%;
